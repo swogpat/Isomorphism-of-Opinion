@@ -1,4 +1,4 @@
-# Isomorphism-of-Opinion-
+# Isomorphism-of-Opinion
 Dynamics of Public Opinion in Semi-open Communication System: Isomorphism of Opinion 
 ## 半开放交流环境中的舆论动力学——意见同构化
 ### 摘要
